@@ -1,0 +1,1060 @@
+Lokasi,Komoditi,Siklus Ke-,Tanggal Tanam / Tebar,Tanggal Mulai Panen,Tanggal Akhir Panen,Jumlah Bibit/Benih/Ekor Ditanam-Tebar,Satuan,Target Panen Harian
+Poktan Cah Angon,Lele,1,2026-08-01,2026-10-30,2026-10-30,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,2,2026-08-15,2026-11-13,2026-11-13,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,3,2026-08-29,2026-11-27,2026-11-27,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,4,2026-09-12,2026-12-11,2026-12-11,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,5,2026-09-26,2026-12-25,2026-12-25,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,6,2026-10-10,2027-01-08,2027-01-08,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,7,2026-10-24,2027-01-22,2027-01-22,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,8,2026-11-07,2027-02-05,2027-02-05,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,9,2026-11-21,2027-02-19,2027-02-19,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,10,2026-12-05,2027-03-05,2027-03-05,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,11,2026-12-19,2027-03-19,2027-03-19,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,12,2027-01-02,2027-04-02,2027-04-02,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,13,2027-01-16,2027-04-16,2027-04-16,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,14,2027-01-30,2027-04-30,2027-04-30,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,15,2027-02-13,2027-05-14,2027-05-14,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,16,2027-02-27,2027-05-28,2027-05-28,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,17,2027-03-13,2027-06-11,2027-06-11,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,18,2027-03-27,2027-06-25,2027-06-25,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,19,2027-04-10,2027-07-09,2027-07-09,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,20,2027-04-24,2027-07-23,2027-07-23,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,21,2027-05-08,2027-08-06,2027-08-06,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,22,2027-05-22,2027-08-20,2027-08-20,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,23,2027-06-05,2027-09-03,2027-09-03,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,24,2027-06-19,2027-09-17,2027-09-17,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,25,2027-07-03,2027-10-01,2027-10-01,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,26,2027-07-17,2027-10-15,2027-10-15,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Lele,27,2027-07-31,2027-10-29,2027-10-29,15,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Poktan Cah Angon,Tomat,1,2026-08-01,2026-10-15,2027-04-01,334,batang/bibit tanaman,20 kg
+Poktan Cah Angon,Tomat,2,2027-01-16,2027-04-01,2027-09-16,334,batang/bibit tanaman,20 kg
+Poktan Cah Angon,Tomat,3,2027-07-03,2027-09-16,2028-03-02,334,batang/bibit tanaman,20 kg
+Poktan Cah Angon,Cabe,1,2026-08-01,2026-10-15,2027-02-25,750,batang/bibit tanaman,15 kg
+Poktan Cah Angon,Cabe,2,2026-12-12,2027-02-25,2027-07-08,750,batang/bibit tanaman,15 kg
+Poktan Cah Angon,Cabe,3,2027-04-24,2027-07-08,2027-11-18,750,batang/bibit tanaman,15 kg
+Jago Karah Farm,Ayam potong,1,2026-08-01,2026-09-05,2026-09-05,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,2,2026-08-15,2026-09-19,2026-09-19,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,3,2026-08-29,2026-10-03,2026-10-03,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,4,2026-09-12,2026-10-17,2026-10-17,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,5,2026-09-26,2026-10-31,2026-10-31,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,6,2026-10-10,2026-11-14,2026-11-14,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,7,2026-10-24,2026-11-28,2026-11-28,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,8,2026-11-07,2026-12-12,2026-12-12,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,9,2026-11-21,2026-12-26,2026-12-26,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,10,2026-12-05,2027-01-09,2027-01-09,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,11,2026-12-19,2027-01-23,2027-01-23,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,12,2027-01-02,2027-02-06,2027-02-06,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,13,2027-01-16,2027-02-20,2027-02-20,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,14,2027-01-30,2027-03-06,2027-03-06,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,15,2027-02-13,2027-03-20,2027-03-20,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,16,2027-02-27,2027-04-03,2027-04-03,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,17,2027-03-13,2027-04-17,2027-04-17,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,18,2027-03-27,2027-05-01,2027-05-01,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,19,2027-04-10,2027-05-15,2027-05-15,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,20,2027-04-24,2027-05-29,2027-05-29,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,21,2027-05-08,2027-06-12,2027-06-12,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,22,2027-05-22,2027-06-26,2027-06-26,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,23,2027-06-05,2027-07-10,2027-07-10,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,24,2027-06-19,2027-07-24,2027-07-24,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,25,2027-07-03,2027-08-07,2027-08-07,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,26,2027-07-17,2027-08-21,2027-08-21,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Ayam potong,27,2027-07-31,2027-09-04,2027-09-04,6,ekor bibit/benih (sudah + margin mortalitas 20%),5 ekor
+Jago Karah Farm,Menthok,1,2026-08-01,2026-12-14,2026-12-14,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,2,2026-08-15,2026-12-28,2026-12-28,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,3,2026-08-29,2027-01-11,2027-01-11,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,4,2026-09-12,2027-01-25,2027-01-25,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,5,2026-09-26,2027-02-08,2027-02-08,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,6,2026-10-10,2027-02-22,2027-02-22,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,7,2026-10-24,2027-03-08,2027-03-08,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,8,2026-11-07,2027-03-22,2027-03-22,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,9,2026-11-21,2027-04-05,2027-04-05,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,10,2026-12-05,2027-04-19,2027-04-19,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,11,2026-12-19,2027-05-03,2027-05-03,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,12,2027-01-02,2027-05-17,2027-05-17,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,13,2027-01-16,2027-05-31,2027-05-31,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,14,2027-01-30,2027-06-14,2027-06-14,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,15,2027-02-13,2027-06-28,2027-06-28,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,16,2027-02-27,2027-07-12,2027-07-12,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,17,2027-03-13,2027-07-26,2027-07-26,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,18,2027-03-27,2027-08-09,2027-08-09,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,19,2027-04-10,2027-08-23,2027-08-23,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,20,2027-04-24,2027-09-06,2027-09-06,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,21,2027-05-08,2027-09-20,2027-09-20,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,22,2027-05-22,2027-10-04,2027-10-04,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,23,2027-06-05,2027-10-18,2027-10-18,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,24,2027-06-19,2027-11-01,2027-11-01,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,25,2027-07-03,2027-11-15,2027-11-15,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,26,2027-07-17,2027-11-29,2027-11-29,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Menthok,27,2027-07-31,2027-12-13,2027-12-13,3,ekor bibit/benih (sudah + margin mortalitas 20%),2 ekor
+Jago Karah Farm,Ayam kampung petelur,1,2026-08-01,2026-12-29,2028-07-31,140,ekor (populasi petelur aktif),70 butir
+Jago Karah Farm,Ayam negeri petelur,1,2026-08-01,2026-12-29,2028-05-19,180,ekor (populasi petelur aktif),126 butir
+Poktan X Bates,Cabe rawit,1,2026-08-01,2026-10-15,2027-02-25,858,batang/bibit tanaman,15 kg
+Poktan X Bates,Cabe rawit,2,2026-12-12,2027-02-25,2027-07-08,858,batang/bibit tanaman,15 kg
+Poktan X Bates,Cabe rawit,3,2027-04-24,2027-07-08,2027-11-18,858,batang/bibit tanaman,15 kg
+Poktan X Bates,Terong ungu,1,2026-08-01,2026-09-30,2027-01-28,136,batang/bibit tanaman,20 kg
+Poktan X Bates,Terong ungu,2,2026-11-29,2027-01-28,2027-05-28,136,batang/bibit tanaman,20 kg
+Poktan X Bates,Terong ungu,3,2027-03-29,2027-05-28,2027-09-25,136,batang/bibit tanaman,20 kg
+Poktan X Bates,Terong ungu,4,2027-07-27,2027-09-25,2028-01-23,136,batang/bibit tanaman,20 kg
+DKPP Jambangan,Jagung manis,1,2026-08-01,2026-10-10,2026-10-10,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,2,2026-08-15,2026-10-24,2026-10-24,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,3,2026-08-29,2026-11-07,2026-11-07,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,4,2026-09-12,2026-11-21,2026-11-21,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,5,2026-09-26,2026-12-05,2026-12-05,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,6,2026-10-10,2026-12-19,2026-12-19,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,7,2026-10-24,2027-01-02,2027-01-02,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,8,2026-11-07,2027-01-16,2027-01-16,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,9,2026-11-21,2027-01-30,2027-01-30,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,10,2026-12-05,2027-02-13,2027-02-13,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,11,2026-12-19,2027-02-27,2027-02-27,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,12,2027-01-02,2027-03-13,2027-03-13,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,13,2027-01-16,2027-03-27,2027-03-27,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,14,2027-01-30,2027-04-10,2027-04-10,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,15,2027-02-13,2027-04-24,2027-04-24,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,16,2027-02-27,2027-05-08,2027-05-08,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,17,2027-03-13,2027-05-22,2027-05-22,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,18,2027-03-27,2027-06-05,2027-06-05,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,19,2027-04-10,2027-06-19,2027-06-19,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,20,2027-04-24,2027-07-03,2027-07-03,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,21,2027-05-08,2027-07-17,2027-07-17,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,22,2027-05-22,2027-07-31,2027-07-31,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,23,2027-06-05,2027-08-14,2027-08-14,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,24,2027-06-19,2027-08-28,2027-08-28,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,25,2027-07-03,2027-09-11,2027-09-11,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,26,2027-07-17,2027-09-25,2027-09-25,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Jagung manis,27,2027-07-31,2027-10-09,2027-10-09,54,batang/bibit tanaman,16 Kg
+DKPP Jambangan,Kacang tanah,1,2026-08-01,2026-11-09,2026-11-09,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,2,2026-08-15,2026-11-23,2026-11-23,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,3,2026-08-29,2026-12-07,2026-12-07,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,4,2026-09-12,2026-12-21,2026-12-21,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,5,2026-09-26,2027-01-04,2027-01-04,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,6,2026-10-10,2027-01-18,2027-01-18,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,7,2026-10-24,2027-02-01,2027-02-01,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,8,2026-11-07,2027-02-15,2027-02-15,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,9,2026-11-21,2027-03-01,2027-03-01,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,10,2026-12-05,2027-03-15,2027-03-15,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,11,2026-12-19,2027-03-29,2027-03-29,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,12,2027-01-02,2027-04-12,2027-04-12,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,13,2027-01-16,2027-04-26,2027-04-26,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,14,2027-01-30,2027-05-10,2027-05-10,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,15,2027-02-13,2027-05-24,2027-05-24,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,16,2027-02-27,2027-06-07,2027-06-07,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,17,2027-03-13,2027-06-21,2027-06-21,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,18,2027-03-27,2027-07-05,2027-07-05,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,19,2027-04-10,2027-07-19,2027-07-19,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,20,2027-04-24,2027-08-02,2027-08-02,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,21,2027-05-08,2027-08-16,2027-08-16,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,22,2027-05-22,2027-08-30,2027-08-30,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,23,2027-06-05,2027-09-13,2027-09-13,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,24,2027-06-19,2027-09-27,2027-09-27,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,25,2027-07-03,2027-10-11,2027-10-11,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,26,2027-07-17,2027-10-25,2027-10-25,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Kacang tanah,27,2027-07-31,2027-11-08,2027-11-08,500,batang/bibit tanaman,10 kg
+DKPP Jambangan,Pepaya,1,2026-08-01,2027-03-29,2030-07-31,58,batang/bibit tanaman,20 kg
+DKPP Jambangan,Blonceng,1,2026-08-01,2026-09-20,2028-07-31,970,batang/bibit tanaman,30kg
+DKPP Jambangan,Kembang kol,1,2026-08-01,2026-09-20,2026-09-20,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,2,2026-08-15,2026-10-04,2026-10-04,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,3,2026-08-29,2026-10-18,2026-10-18,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,4,2026-09-12,2026-11-01,2026-11-01,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,5,2026-09-26,2026-11-15,2026-11-15,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,6,2026-10-10,2026-11-29,2026-11-29,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,7,2026-10-24,2026-12-13,2026-12-13,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,8,2026-11-07,2026-12-27,2026-12-27,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,9,2026-11-21,2027-01-10,2027-01-10,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,10,2026-12-05,2027-01-24,2027-01-24,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,11,2026-12-19,2027-02-07,2027-02-07,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,12,2027-01-02,2027-02-21,2027-02-21,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,13,2027-01-16,2027-03-07,2027-03-07,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,14,2027-01-30,2027-03-21,2027-03-21,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,15,2027-02-13,2027-04-04,2027-04-04,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,16,2027-02-27,2027-04-18,2027-04-18,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,17,2027-03-13,2027-05-02,2027-05-02,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,18,2027-03-27,2027-05-16,2027-05-16,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,19,2027-04-10,2027-05-30,2027-05-30,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,20,2027-04-24,2027-06-13,2027-06-13,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,21,2027-05-08,2027-06-27,2027-06-27,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,22,2027-05-22,2027-07-11,2027-07-11,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,23,2027-06-05,2027-07-25,2027-07-25,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,24,2027-06-19,2027-08-08,2027-08-08,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,25,2027-07-03,2027-08-22,2027-08-22,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,26,2027-07-17,2027-09-05,2027-09-05,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,Kembang kol,27,2027-07-31,2027-09-19,2027-09-19,50,batang/bibit tanaman,30 kg
+DKPP Jambangan,kangkung,1,2026-08-01,2026-08-26,2026-09-23,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,2,2026-08-29,2026-09-23,2026-10-21,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,3,2026-09-26,2026-10-21,2026-11-18,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,4,2026-10-24,2026-11-18,2026-12-16,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,5,2026-11-21,2026-12-16,2027-01-13,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,6,2026-12-19,2027-01-13,2027-02-10,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,7,2027-01-16,2027-02-10,2027-03-10,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,8,2027-02-13,2027-03-10,2027-04-07,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,9,2027-03-13,2027-04-07,2027-05-05,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,10,2027-04-10,2027-05-05,2027-06-02,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,11,2027-05-08,2027-06-02,2027-06-30,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,12,2027-06-05,2027-06-30,2027-07-28,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,13,2027-07-03,2027-07-28,2027-08-25,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,kangkung,14,2027-07-31,2027-08-25,2027-09-22,10000,batang/bibit tanaman,100kg
+DKPP Jambangan,sawi,1,2026-08-01,2026-08-26,2026-08-26,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,2,2026-08-15,2026-09-09,2026-09-09,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,3,2026-08-29,2026-09-23,2026-09-23,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,4,2026-09-12,2026-10-07,2026-10-07,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,5,2026-09-26,2026-10-21,2026-10-21,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,6,2026-10-10,2026-11-04,2026-11-04,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,7,2026-10-24,2026-11-18,2026-11-18,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,8,2026-11-07,2026-12-02,2026-12-02,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,9,2026-11-21,2026-12-16,2026-12-16,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,10,2026-12-05,2026-12-30,2026-12-30,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,11,2026-12-19,2027-01-13,2027-01-13,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,12,2027-01-02,2027-01-27,2027-01-27,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,13,2027-01-16,2027-02-10,2027-02-10,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,14,2027-01-30,2027-02-24,2027-02-24,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,15,2027-02-13,2027-03-10,2027-03-10,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,16,2027-02-27,2027-03-24,2027-03-24,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,17,2027-03-13,2027-04-07,2027-04-07,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,18,2027-03-27,2027-04-21,2027-04-21,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,19,2027-04-10,2027-05-05,2027-05-05,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,20,2027-04-24,2027-05-19,2027-05-19,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,21,2027-05-08,2027-06-02,2027-06-02,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,22,2027-05-22,2027-06-16,2027-06-16,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,23,2027-06-05,2027-06-30,2027-06-30,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,24,2027-06-19,2027-07-14,2027-07-14,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,25,2027-07-03,2027-07-28,2027-07-28,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,26,2027-07-17,2027-08-11,2027-08-11,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,sawi,27,2027-07-31,2027-08-25,2027-08-25,334,batang/bibit tanaman,50 kg
+DKPP Jambangan,Terong,1,2026-08-01,2026-09-30,2027-01-28,340,batang/bibit tanaman,50 kg
+DKPP Jambangan,Terong,2,2026-11-29,2027-01-28,2027-05-28,340,batang/bibit tanaman,50 kg
+DKPP Jambangan,Terong,3,2027-03-29,2027-05-28,2027-09-25,340,batang/bibit tanaman,50 kg
+DKPP Jambangan,Terong,4,2027-07-27,2027-09-25,2028-01-23,340,batang/bibit tanaman,50 kg
+DKPP Jambangan,Cabe rawit,1,2026-08-01,2026-10-15,2027-05-06,2143,batang/bibit tanaman,25                 kg
+DKPP Jambangan,Cabe rawit,2,2027-02-20,2027-05-06,2027-11-25,2143,batang/bibit tanaman,25                 kg
+DKPP Jambangan,Timun,1,2026-08-01,2026-08-31,2026-10-30,135,batang/bibit tanaman,30 kg
+DKPP Jambangan,Timun,2,2026-09-30,2026-10-30,2026-12-29,135,batang/bibit tanaman,30 kg
+DKPP Jambangan,Timun,3,2026-11-29,2026-12-29,2027-02-27,135,batang/bibit tanaman,30 kg
+DKPP Jambangan,Timun,4,2027-01-28,2027-02-27,2027-04-28,135,batang/bibit tanaman,30 kg
+DKPP Jambangan,Timun,5,2027-03-29,2027-04-28,2027-06-27,135,batang/bibit tanaman,30 kg
+DKPP Jambangan,Timun,6,2027-05-28,2027-06-27,2027-08-26,135,batang/bibit tanaman,30 kg
+DKPP Jambangan,Timun,7,2027-07-27,2027-08-26,2027-10-25,135,batang/bibit tanaman,30 kg
+DKPP Jambangan,Cabe khitosan,1,2026-08-01,2026-10-15,2027-01-28,1125,batang/bibit tanaman,30 kg
+DKPP Jambangan,Cabe khitosan,2,2026-11-14,2027-01-28,2027-05-13,1125,batang/bibit tanaman,30 kg
+DKPP Jambangan,Cabe khitosan,3,2027-02-27,2027-05-13,2027-08-26,1125,batang/bibit tanaman,30 kg
+DKPP Jambangan,Cabe khitosan,4,2027-06-12,2027-08-26,2027-12-09,1125,batang/bibit tanaman,30 kg
+Poktan Lestari,Cabai Chitosan,1,2026-08-01,2026-10-15,2027-01-28,1125,batang/bibit tanaman,30 kg
+Poktan Lestari,Cabai Chitosan,2,2026-11-14,2027-01-28,2027-05-13,1125,batang/bibit tanaman,30 kg
+Poktan Lestari,Cabai Chitosan,3,2027-02-27,2027-05-13,2027-08-26,1125,batang/bibit tanaman,30 kg
+Poktan Lestari,Cabai Chitosan,4,2027-06-12,2027-08-26,2027-12-09,1125,batang/bibit tanaman,30 kg
+Poktan Lestari,Pare,1,2026-08-01,2026-09-10,2026-10-30,20,batang/bibit tanaman,10 kg
+Poktan Lestari,Pare,2,2026-09-20,2026-10-30,2026-12-19,20,batang/bibit tanaman,10 kg
+Poktan Lestari,Pare,3,2026-11-09,2026-12-19,2027-02-07,20,batang/bibit tanaman,10 kg
+Poktan Lestari,Pare,4,2026-12-29,2027-02-07,2027-03-29,20,batang/bibit tanaman,10 kg
+Poktan Lestari,Pare,5,2027-02-17,2027-03-29,2027-05-18,20,batang/bibit tanaman,10 kg
+Poktan Lestari,Pare,6,2027-04-08,2027-05-18,2027-07-07,20,batang/bibit tanaman,10 kg
+Poktan Lestari,Pare,7,2027-05-28,2027-07-07,2027-08-26,20,batang/bibit tanaman,10 kg
+Poktan Lestari,Pare,8,2027-07-17,2027-08-26,2027-10-15,20,batang/bibit tanaman,10 kg
+Poktan Lestari,Cabe Rawit,1,2026-08-01,2026-10-15,2027-01-28,1286,batang/bibit tanaman,30 kg
+Poktan Lestari,Cabe Rawit,2,2026-11-14,2027-01-28,2027-05-13,1286,batang/bibit tanaman,30 kg
+Poktan Lestari,Cabe Rawit,3,2027-02-27,2027-05-13,2027-08-26,1286,batang/bibit tanaman,30 kg
+Poktan Lestari,Cabe Rawit,4,2027-06-12,2027-08-26,2027-12-09,1286,batang/bibit tanaman,30 kg
+Poktan Lestari,Terong,1,2026-08-01,2026-09-30,2027-01-28,340,batang/bibit tanaman,50 kg
+Poktan Lestari,Terong,2,2026-11-29,2027-01-28,2027-05-28,340,batang/bibit tanaman,50 kg
+Poktan Lestari,Terong,3,2027-03-29,2027-05-28,2027-09-25,340,batang/bibit tanaman,50 kg
+Poktan Lestari,Terong,4,2027-07-27,2027-09-25,2028-01-23,340,batang/bibit tanaman,50 kg
+Poktan Lestari,Kacang Panjang,1,2026-08-01,2026-09-15,2026-11-14,338,batang/bibit tanaman,15kg
+Poktan Lestari,Kacang Panjang,2,2026-09-30,2026-11-14,2027-01-13,338,batang/bibit tanaman,15kg
+Poktan Lestari,Kacang Panjang,3,2026-11-29,2027-01-13,2027-03-14,338,batang/bibit tanaman,15kg
+Poktan Lestari,Kacang Panjang,4,2027-01-28,2027-03-14,2027-05-13,338,batang/bibit tanaman,15kg
+Poktan Lestari,Kacang Panjang,5,2027-03-29,2027-05-13,2027-07-12,338,batang/bibit tanaman,15kg
+Poktan Lestari,Kacang Panjang,6,2027-05-28,2027-07-12,2027-09-10,338,batang/bibit tanaman,15kg
+Poktan Lestari,Kacang Panjang,7,2027-07-27,2027-09-10,2027-11-09,338,batang/bibit tanaman,15kg
+Poktan Lestari,Bawang Merah,1,2026-08-01,2026-10-10,2026-10-10,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,2,2026-08-15,2026-10-24,2026-10-24,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,3,2026-08-29,2026-11-07,2026-11-07,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,4,2026-09-12,2026-11-21,2026-11-21,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,5,2026-09-26,2026-12-05,2026-12-05,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,6,2026-10-10,2026-12-19,2026-12-19,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,7,2026-10-24,2027-01-02,2027-01-02,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,8,2026-11-07,2027-01-16,2027-01-16,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,9,2026-11-21,2027-01-30,2027-01-30,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,10,2026-12-05,2027-02-13,2027-02-13,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,11,2026-12-19,2027-02-27,2027-02-27,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,12,2027-01-02,2027-03-13,2027-03-13,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,13,2027-01-16,2027-03-27,2027-03-27,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,14,2027-01-30,2027-04-10,2027-04-10,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,15,2027-02-13,2027-04-24,2027-04-24,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,16,2027-02-27,2027-05-08,2027-05-08,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,17,2027-03-13,2027-05-22,2027-05-22,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,18,2027-03-27,2027-06-05,2027-06-05,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,19,2027-04-10,2027-06-19,2027-06-19,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,20,2027-04-24,2027-07-03,2027-07-03,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,21,2027-05-08,2027-07-17,2027-07-17,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,22,2027-05-22,2027-07-31,2027-07-31,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,23,2027-06-05,2027-08-14,2027-08-14,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,24,2027-06-19,2027-08-28,2027-08-28,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,25,2027-07-03,2027-09-11,2027-09-11,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,26,2027-07-17,2027-09-25,2027-09-25,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Bawang Merah,27,2027-07-31,2027-10-09,2027-10-09,625,batang/bibit tanaman,50 kg
+Poktan Lestari,Kangkung,1,2026-08-01,2026-08-26,2026-09-23,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,2,2026-08-29,2026-09-23,2026-10-21,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,3,2026-09-26,2026-10-21,2026-11-18,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,4,2026-10-24,2026-11-18,2026-12-16,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,5,2026-11-21,2026-12-16,2027-01-13,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,6,2026-12-19,2027-01-13,2027-02-10,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,7,2027-01-16,2027-02-10,2027-03-10,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,8,2027-02-13,2027-03-10,2027-04-07,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,9,2027-03-13,2027-04-07,2027-05-05,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,10,2027-04-10,2027-05-05,2027-06-02,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,11,2027-05-08,2027-06-02,2027-06-30,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,12,2027-06-05,2027-06-30,2027-07-28,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,13,2027-07-03,2027-07-28,2027-08-25,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Kangkung,14,2027-07-31,2027-08-25,2027-09-22,10000,batang/bibit tanaman,100kg
+Poktan Lestari,Sawi Pakcoy,1,2026-08-01,2026-08-26,2026-08-26,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,2,2026-08-15,2026-09-09,2026-09-09,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,3,2026-08-29,2026-09-23,2026-09-23,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,4,2026-09-12,2026-10-07,2026-10-07,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,5,2026-09-26,2026-10-21,2026-10-21,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,6,2026-10-10,2026-11-04,2026-11-04,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,7,2026-10-24,2026-11-18,2026-11-18,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,8,2026-11-07,2026-12-02,2026-12-02,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,9,2026-11-21,2026-12-16,2026-12-16,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,10,2026-12-05,2026-12-30,2026-12-30,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,11,2026-12-19,2027-01-13,2027-01-13,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,12,2027-01-02,2027-01-27,2027-01-27,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,13,2027-01-16,2027-02-10,2027-02-10,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,14,2027-01-30,2027-02-24,2027-02-24,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,15,2027-02-13,2027-03-10,2027-03-10,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,16,2027-02-27,2027-03-24,2027-03-24,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,17,2027-03-13,2027-04-07,2027-04-07,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,18,2027-03-27,2027-04-21,2027-04-21,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,19,2027-04-10,2027-05-05,2027-05-05,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,20,2027-04-24,2027-05-19,2027-05-19,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,21,2027-05-08,2027-06-02,2027-06-02,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,22,2027-05-22,2027-06-16,2027-06-16,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,23,2027-06-05,2027-06-30,2027-06-30,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,24,2027-06-19,2027-07-14,2027-07-14,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,25,2027-07-03,2027-07-28,2027-07-28,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,26,2027-07-17,2027-08-11,2027-08-11,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Sawi Pakcoy,27,2027-07-31,2027-08-25,2027-08-25,417,batang/bibit tanaman,50 kg
+Poktan Lestari,Selada,1,2026-08-01,2026-09-05,2026-09-05,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,2,2026-08-15,2026-09-19,2026-09-19,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,3,2026-08-29,2026-10-03,2026-10-03,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,4,2026-09-12,2026-10-17,2026-10-17,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,5,2026-09-26,2026-10-31,2026-10-31,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,6,2026-10-10,2026-11-14,2026-11-14,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,7,2026-10-24,2026-11-28,2026-11-28,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,8,2026-11-07,2026-12-12,2026-12-12,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,9,2026-11-21,2026-12-26,2026-12-26,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,10,2026-12-05,2027-01-09,2027-01-09,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,11,2026-12-19,2027-01-23,2027-01-23,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,12,2027-01-02,2027-02-06,2027-02-06,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,13,2027-01-16,2027-02-20,2027-02-20,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,14,2027-01-30,2027-03-06,2027-03-06,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,15,2027-02-13,2027-03-20,2027-03-20,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,16,2027-02-27,2027-04-03,2027-04-03,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,17,2027-03-13,2027-04-17,2027-04-17,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,18,2027-03-27,2027-05-01,2027-05-01,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,19,2027-04-10,2027-05-15,2027-05-15,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,20,2027-04-24,2027-05-29,2027-05-29,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,21,2027-05-08,2027-06-12,2027-06-12,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,22,2027-05-22,2027-06-26,2027-06-26,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,23,2027-06-05,2027-07-10,2027-07-10,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,24,2027-06-19,2027-07-24,2027-07-24,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,25,2027-07-03,2027-08-07,2027-08-07,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,26,2027-07-17,2027-08-21,2027-08-21,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Selada,27,2027-07-31,2027-09-04,2027-09-04,167,batang/bibit tanaman,25 kg
+Poktan Lestari,Timun,1,2026-08-01,2026-08-31,2026-10-30,135,batang/bibit tanaman,30 kg
+Poktan Lestari,Timun,2,2026-09-30,2026-10-30,2026-12-29,135,batang/bibit tanaman,30 kg
+Poktan Lestari,Timun,3,2026-11-29,2026-12-29,2027-02-27,135,batang/bibit tanaman,30 kg
+Poktan Lestari,Timun,4,2027-01-28,2027-02-27,2027-04-28,135,batang/bibit tanaman,30 kg
+Poktan Lestari,Timun,5,2027-03-29,2027-04-28,2027-06-27,135,batang/bibit tanaman,30 kg
+Poktan Lestari,Timun,6,2027-05-28,2027-06-27,2027-08-26,135,batang/bibit tanaman,30 kg
+Poktan Lestari,Timun,7,2027-07-27,2027-08-26,2027-10-25,135,batang/bibit tanaman,30 kg
+Sekolah Al Falah,Cabe,1,2026-08-01,2026-10-15,2027-01-28,188,batang/bibit tanaman,5 kg
+Sekolah Al Falah,Cabe,2,2026-11-14,2027-01-28,2027-05-13,188,batang/bibit tanaman,5 kg
+Sekolah Al Falah,Cabe,3,2027-02-27,2027-05-13,2027-08-26,188,batang/bibit tanaman,5 kg
+Sekolah Al Falah,Cabe,4,2027-06-12,2027-08-26,2027-12-09,188,batang/bibit tanaman,5 kg
+Sekolah Al Falah,Tomat,1,2026-08-01,2026-10-15,2027-04-01,84,batang/bibit tanaman,5 kg
+Sekolah Al Falah,Tomat,2,2027-01-16,2027-04-01,2027-09-16,84,batang/bibit tanaman,5 kg
+Sekolah Al Falah,Tomat,3,2027-07-03,2027-09-16,2028-03-02,84,batang/bibit tanaman,5 kg
+Akademik Farmasi,Tomat,1,2026-08-01,2026-10-15,2027-04-01,84,batang/bibit tanaman,5 kg
+Akademik Farmasi,Tomat,2,2027-01-16,2027-04-01,2027-09-16,84,batang/bibit tanaman,5 kg
+Akademik Farmasi,Tomat,3,2027-07-03,2027-09-16,2028-03-02,84,batang/bibit tanaman,5 kg
+Akademik Farmasi,Cabe,1,2026-08-01,2026-10-15,2027-01-28,188,batang/bibit tanaman,5 kg
+Akademik Farmasi,Cabe,2,2026-11-14,2027-01-28,2027-05-13,188,batang/bibit tanaman,5 kg
+Akademik Farmasi,Cabe,3,2027-02-27,2027-05-13,2027-08-26,188,batang/bibit tanaman,5 kg
+Akademik Farmasi,Cabe,4,2027-06-12,2027-08-26,2027-12-09,188,batang/bibit tanaman,5 kg
+Fakultas Ketahanan Pangan Unesa,terong,1,2026-08-01,2026-09-30,2027-01-28,1360,batang/bibit tanaman,200 Kg
+Fakultas Ketahanan Pangan Unesa,terong,2,2026-11-29,2027-01-28,2027-05-28,1360,batang/bibit tanaman,200 Kg
+Fakultas Ketahanan Pangan Unesa,terong,3,2027-03-29,2027-05-28,2027-09-25,1360,batang/bibit tanaman,200 Kg
+Fakultas Ketahanan Pangan Unesa,terong,4,2027-07-27,2027-09-25,2028-01-23,1360,batang/bibit tanaman,200 Kg
+Fakultas Ketahanan Pangan Unesa,tomat,1,2026-08-01,2026-10-15,2027-04-01,1334,batang/bibit tanaman,80 kg
+Fakultas Ketahanan Pangan Unesa,tomat,2,2027-01-16,2027-04-01,2027-09-16,1334,batang/bibit tanaman,80 kg
+Fakultas Ketahanan Pangan Unesa,tomat,3,2027-07-03,2027-09-16,2028-03-02,1334,batang/bibit tanaman,80 kg
+Fakultas Ketahanan Pangan Unesa,labu putih,1,2026-08-01,2026-09-25,2027-02-05,400,batang/bibit tanaman,100kg
+Fakultas Ketahanan Pangan Unesa,labu putih,2,2026-12-12,2027-02-05,2027-06-18,400,batang/bibit tanaman,100kg
+Fakultas Ketahanan Pangan Unesa,labu putih,3,2027-04-24,2027-06-18,2027-10-29,400,batang/bibit tanaman,100kg
+Fakultas Ketahanan Pangan Unesa,mentimun,1,2026-08-01,2026-08-31,2026-10-30,135,batang/bibit tanaman,30 kg
+Fakultas Ketahanan Pangan Unesa,mentimun,2,2026-09-30,2026-10-30,2026-12-29,135,batang/bibit tanaman,30 kg
+Fakultas Ketahanan Pangan Unesa,mentimun,3,2026-11-29,2026-12-29,2027-02-27,135,batang/bibit tanaman,30 kg
+Fakultas Ketahanan Pangan Unesa,mentimun,4,2027-01-28,2027-02-27,2027-04-28,135,batang/bibit tanaman,30 kg
+Fakultas Ketahanan Pangan Unesa,mentimun,5,2027-03-29,2027-04-28,2027-06-27,135,batang/bibit tanaman,30 kg
+Fakultas Ketahanan Pangan Unesa,mentimun,6,2027-05-28,2027-06-27,2027-08-26,135,batang/bibit tanaman,30 kg
+Fakultas Ketahanan Pangan Unesa,mentimun,7,2027-07-27,2027-08-26,2027-10-25,135,batang/bibit tanaman,30 kg
+Fakultas Ketahanan Pangan Unesa,kemangi,1,2026-08-01,2026-09-10,2026-11-14,844,batang/bibit tanaman,"7,5 kg"
+Fakultas Ketahanan Pangan Unesa,kemangi,2,2026-10-05,2026-11-14,2027-01-18,844,batang/bibit tanaman,"7,5 kg"
+Fakultas Ketahanan Pangan Unesa,kemangi,3,2026-12-09,2027-01-18,2027-03-24,844,batang/bibit tanaman,"7,5 kg"
+Fakultas Ketahanan Pangan Unesa,kemangi,4,2027-02-12,2027-03-24,2027-05-28,844,batang/bibit tanaman,"7,5 kg"
+Fakultas Ketahanan Pangan Unesa,kemangi,5,2027-04-18,2027-05-28,2027-08-01,844,batang/bibit tanaman,"7,5 kg"
+Fakultas Ketahanan Pangan Unesa,kemangi,6,2027-06-22,2027-08-01,2027-10-05,844,batang/bibit tanaman,"7,5 kg"
+Fakultas Ketahanan Pangan Unesa,ketela rambat,1,2026-08-01,2026-10-30,2026-10-30,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,2,2026-08-15,2026-11-13,2026-11-13,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,3,2026-08-29,2026-11-27,2026-11-27,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,4,2026-09-12,2026-12-11,2026-12-11,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,5,2026-09-26,2026-12-25,2026-12-25,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,6,2026-10-10,2027-01-08,2027-01-08,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,7,2026-10-24,2027-01-22,2027-01-22,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,8,2026-11-07,2027-02-05,2027-02-05,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,9,2026-11-21,2027-02-19,2027-02-19,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,10,2026-12-05,2027-03-05,2027-03-05,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,11,2026-12-19,2027-03-19,2027-03-19,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,12,2027-01-02,2027-04-02,2027-04-02,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,13,2027-01-16,2027-04-16,2027-04-16,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,14,2027-01-30,2027-04-30,2027-04-30,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,15,2027-02-13,2027-05-14,2027-05-14,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,16,2027-02-27,2027-05-28,2027-05-28,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,17,2027-03-13,2027-06-11,2027-06-11,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,18,2027-03-27,2027-06-25,2027-06-25,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,19,2027-04-10,2027-07-09,2027-07-09,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,20,2027-04-24,2027-07-23,2027-07-23,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,21,2027-05-08,2027-08-06,2027-08-06,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,22,2027-05-22,2027-08-20,2027-08-20,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,23,2027-06-05,2027-09-03,2027-09-03,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,24,2027-06-19,2027-09-17,2027-09-17,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,25,2027-07-03,2027-10-01,2027-10-01,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,26,2027-07-17,2027-10-15,2027-10-15,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,ketela rambat,27,2027-07-31,2027-10-29,2027-10-29,300,batang/bibit tanaman,150 Kg
+Fakultas Ketahanan Pangan Unesa,anggur,1,2026-08-01,2026-12-29,2056-07-24,3086,batang/bibit tanaman,30 Kg
+Fakultas Ketahanan Pangan Unesa,lele,1,2026-08-01,2026-10-30,2026-10-30,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,2,2026-08-15,2026-11-13,2026-11-13,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,3,2026-08-29,2026-11-27,2026-11-27,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,4,2026-09-12,2026-12-11,2026-12-11,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,5,2026-09-26,2026-12-25,2026-12-25,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,6,2026-10-10,2027-01-08,2027-01-08,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,7,2026-10-24,2027-01-22,2027-01-22,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,8,2026-11-07,2027-02-05,2027-02-05,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,9,2026-11-21,2027-02-19,2027-02-19,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,10,2026-12-05,2027-03-05,2027-03-05,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,11,2026-12-19,2027-03-19,2027-03-19,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,12,2027-01-02,2027-04-02,2027-04-02,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,13,2027-01-16,2027-04-16,2027-04-16,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,14,2027-01-30,2027-04-30,2027-04-30,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,15,2027-02-13,2027-05-14,2027-05-14,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,16,2027-02-27,2027-05-28,2027-05-28,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,17,2027-03-13,2027-06-11,2027-06-11,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,18,2027-03-27,2027-06-25,2027-06-25,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,19,2027-04-10,2027-07-09,2027-07-09,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,20,2027-04-24,2027-07-23,2027-07-23,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,21,2027-05-08,2027-08-06,2027-08-06,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,22,2027-05-22,2027-08-20,2027-08-20,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,23,2027-06-05,2027-09-03,2027-09-03,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,24,2027-06-19,2027-09-17,2027-09-17,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,25,2027-07-03,2027-10-01,2027-10-01,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,26,2027-07-17,2027-10-15,2027-10-15,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,lele,27,2027-07-31,2027-10-29,2027-10-29,1200,ekor bibit/benih (sudah + margin mortalitas 20%),900 Kg
+Fakultas Ketahanan Pangan Unesa,nila,1,2026-08-01,2026-12-29,2026-12-29,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,2,2026-08-15,2027-01-12,2027-01-12,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,3,2026-08-29,2027-01-26,2027-01-26,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,4,2026-09-12,2027-02-09,2027-02-09,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,5,2026-09-26,2027-02-23,2027-02-23,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,6,2026-10-10,2027-03-09,2027-03-09,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,7,2026-10-24,2027-03-23,2027-03-23,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,8,2026-11-07,2027-04-06,2027-04-06,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,9,2026-11-21,2027-04-20,2027-04-20,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,10,2026-12-05,2027-05-04,2027-05-04,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,11,2026-12-19,2027-05-18,2027-05-18,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,12,2027-01-02,2027-06-01,2027-06-01,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,13,2027-01-16,2027-06-15,2027-06-15,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,14,2027-01-30,2027-06-29,2027-06-29,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,15,2027-02-13,2027-07-13,2027-07-13,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,16,2027-02-27,2027-07-27,2027-07-27,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,17,2027-03-13,2027-08-10,2027-08-10,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,18,2027-03-27,2027-08-24,2027-08-24,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,19,2027-04-10,2027-09-07,2027-09-07,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,20,2027-04-24,2027-09-21,2027-09-21,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,21,2027-05-08,2027-10-05,2027-10-05,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,22,2027-05-22,2027-10-19,2027-10-19,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,23,2027-06-05,2027-11-02,2027-11-02,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,24,2027-06-19,2027-11-16,2027-11-16,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,25,2027-07-03,2027-11-30,2027-11-30,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,26,2027-07-17,2027-12-14,2027-12-14,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,nila,27,2027-07-31,2027-12-28,2027-12-28,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Fakultas Ketahanan Pangan Unesa,telur ayam,1,2026-08-01,2026-12-29,2028-05-19,8,ekor (populasi petelur aktif),5 Kg/hari
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,1,2026-08-01,2026-08-26,2026-08-26,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,2,2026-08-15,2026-09-09,2026-09-09,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,3,2026-08-29,2026-09-23,2026-09-23,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,4,2026-09-12,2026-10-07,2026-10-07,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,5,2026-09-26,2026-10-21,2026-10-21,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,6,2026-10-10,2026-11-04,2026-11-04,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,7,2026-10-24,2026-11-18,2026-11-18,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,8,2026-11-07,2026-12-02,2026-12-02,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,9,2026-11-21,2026-12-16,2026-12-16,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,10,2026-12-05,2026-12-30,2026-12-30,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,11,2026-12-19,2027-01-13,2027-01-13,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,12,2027-01-02,2027-01-27,2027-01-27,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,13,2027-01-16,2027-02-10,2027-02-10,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,14,2027-01-30,2027-02-24,2027-02-24,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,15,2027-02-13,2027-03-10,2027-03-10,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,16,2027-02-27,2027-03-24,2027-03-24,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,17,2027-03-13,2027-04-07,2027-04-07,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,18,2027-03-27,2027-04-21,2027-04-21,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,19,2027-04-10,2027-05-05,2027-05-05,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,20,2027-04-24,2027-05-19,2027-05-19,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,21,2027-05-08,2027-06-02,2027-06-02,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,22,2027-05-22,2027-06-16,2027-06-16,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,23,2027-06-05,2027-06-30,2027-06-30,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,24,2027-06-19,2027-07-14,2027-07-14,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,25,2027-07-03,2027-07-28,2027-07-28,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,26,2027-07-17,2027-08-11,2027-08-11,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,Sawi Pakcoy,27,2027-07-31,2027-08-25,2027-08-25,1667,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,1,2026-08-01,2026-09-05,2026-09-05,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,2,2026-08-15,2026-09-19,2026-09-19,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,3,2026-08-29,2026-10-03,2026-10-03,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,4,2026-09-12,2026-10-17,2026-10-17,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,5,2026-09-26,2026-10-31,2026-10-31,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,6,2026-10-10,2026-11-14,2026-11-14,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,7,2026-10-24,2026-11-28,2026-11-28,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,8,2026-11-07,2026-12-12,2026-12-12,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,9,2026-11-21,2026-12-26,2026-12-26,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,10,2026-12-05,2027-01-09,2027-01-09,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,11,2026-12-19,2027-01-23,2027-01-23,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,12,2027-01-02,2027-02-06,2027-02-06,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,13,2027-01-16,2027-02-20,2027-02-20,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,14,2027-01-30,2027-03-06,2027-03-06,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,15,2027-02-13,2027-03-20,2027-03-20,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,16,2027-02-27,2027-04-03,2027-04-03,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,17,2027-03-13,2027-04-17,2027-04-17,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,18,2027-03-27,2027-05-01,2027-05-01,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,19,2027-04-10,2027-05-15,2027-05-15,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,20,2027-04-24,2027-05-29,2027-05-29,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,21,2027-05-08,2027-06-12,2027-06-12,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,22,2027-05-22,2027-06-26,2027-06-26,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,23,2027-06-05,2027-07-10,2027-07-10,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,24,2027-06-19,2027-07-24,2027-07-24,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,25,2027-07-03,2027-08-07,2027-08-07,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,26,2027-07-17,2027-08-21,2027-08-21,1334,batang/bibit tanaman,200 batang
+Fakultas Ketahanan Pangan Unesa,selada,27,2027-07-31,2027-09-04,2027-09-04,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,1,2026-08-01,2026-08-26,2026-08-26,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,2,2026-08-15,2026-09-09,2026-09-09,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,3,2026-08-29,2026-09-23,2026-09-23,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,4,2026-09-12,2026-10-07,2026-10-07,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,5,2026-09-26,2026-10-21,2026-10-21,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,6,2026-10-10,2026-11-04,2026-11-04,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,7,2026-10-24,2026-11-18,2026-11-18,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,8,2026-11-07,2026-12-02,2026-12-02,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,9,2026-11-21,2026-12-16,2026-12-16,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,10,2026-12-05,2026-12-30,2026-12-30,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,11,2026-12-19,2027-01-13,2027-01-13,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,12,2027-01-02,2027-01-27,2027-01-27,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,13,2027-01-16,2027-02-10,2027-02-10,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,14,2027-01-30,2027-02-24,2027-02-24,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,15,2027-02-13,2027-03-10,2027-03-10,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,16,2027-02-27,2027-03-24,2027-03-24,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,17,2027-03-13,2027-04-07,2027-04-07,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,18,2027-03-27,2027-04-21,2027-04-21,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,19,2027-04-10,2027-05-05,2027-05-05,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,20,2027-04-24,2027-05-19,2027-05-19,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,21,2027-05-08,2027-06-02,2027-06-02,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,22,2027-05-22,2027-06-16,2027-06-16,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,23,2027-06-05,2027-06-30,2027-06-30,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,24,2027-06-19,2027-07-14,2027-07-14,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,25,2027-07-03,2027-07-28,2027-07-28,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,26,2027-07-17,2027-08-11,2027-08-11,1334,batang/bibit tanaman,200 batang
+Poktan serpis,sawi,27,2027-07-31,2027-08-25,2027-08-25,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,1,2026-08-01,2026-09-05,2026-09-05,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,2,2026-08-15,2026-09-19,2026-09-19,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,3,2026-08-29,2026-10-03,2026-10-03,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,4,2026-09-12,2026-10-17,2026-10-17,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,5,2026-09-26,2026-10-31,2026-10-31,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,6,2026-10-10,2026-11-14,2026-11-14,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,7,2026-10-24,2026-11-28,2026-11-28,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,8,2026-11-07,2026-12-12,2026-12-12,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,9,2026-11-21,2026-12-26,2026-12-26,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,10,2026-12-05,2027-01-09,2027-01-09,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,11,2026-12-19,2027-01-23,2027-01-23,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,12,2027-01-02,2027-02-06,2027-02-06,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,13,2027-01-16,2027-02-20,2027-02-20,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,14,2027-01-30,2027-03-06,2027-03-06,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,15,2027-02-13,2027-03-20,2027-03-20,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,16,2027-02-27,2027-04-03,2027-04-03,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,17,2027-03-13,2027-04-17,2027-04-17,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,18,2027-03-27,2027-05-01,2027-05-01,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,19,2027-04-10,2027-05-15,2027-05-15,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,20,2027-04-24,2027-05-29,2027-05-29,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,21,2027-05-08,2027-06-12,2027-06-12,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,22,2027-05-22,2027-06-26,2027-06-26,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,23,2027-06-05,2027-07-10,2027-07-10,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,24,2027-06-19,2027-07-24,2027-07-24,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,25,2027-07-03,2027-08-07,2027-08-07,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,26,2027-07-17,2027-08-21,2027-08-21,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Selada,27,2027-07-31,2027-09-04,2027-09-04,1334,batang/bibit tanaman,200 batang
+Poktan serpis,Nila,1,2026-08-01,2026-12-29,2026-12-29,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,2,2026-08-15,2027-01-12,2027-01-12,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,3,2026-08-29,2027-01-26,2027-01-26,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,4,2026-09-12,2027-02-09,2027-02-09,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,5,2026-09-26,2027-02-23,2027-02-23,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,6,2026-10-10,2027-03-09,2027-03-09,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,7,2026-10-24,2027-03-23,2027-03-23,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,8,2026-11-07,2027-04-06,2027-04-06,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,9,2026-11-21,2027-04-20,2027-04-20,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,10,2026-12-05,2027-05-04,2027-05-04,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,11,2026-12-19,2027-05-18,2027-05-18,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,12,2027-01-02,2027-06-01,2027-06-01,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,13,2027-01-16,2027-06-15,2027-06-15,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,14,2027-01-30,2027-06-29,2027-06-29,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,15,2027-02-13,2027-07-13,2027-07-13,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,16,2027-02-27,2027-07-27,2027-07-27,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,17,2027-03-13,2027-08-10,2027-08-10,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,18,2027-03-27,2027-08-24,2027-08-24,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,19,2027-04-10,2027-09-07,2027-09-07,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,20,2027-04-24,2027-09-21,2027-09-21,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,21,2027-05-08,2027-10-05,2027-10-05,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,22,2027-05-22,2027-10-19,2027-10-19,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,23,2027-06-05,2027-11-02,2027-11-02,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,24,2027-06-19,2027-11-16,2027-11-16,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,25,2027-07-03,2027-11-30,2027-11-30,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,26,2027-07-17,2027-12-14,2027-12-14,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Poktan serpis,Nila,27,2027-07-31,2027-12-28,2027-12-28,3000,ekor bibit/benih (sudah + margin mortalitas 20%),1000kg
+Edufarm 1,Aneka sayuran hidroponik,1,2026-08-01,2026-08-26,2026-08-26,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,2,2026-08-15,2026-09-09,2026-09-09,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,3,2026-08-29,2026-09-23,2026-09-23,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,4,2026-09-12,2026-10-07,2026-10-07,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,5,2026-09-26,2026-10-21,2026-10-21,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,6,2026-10-10,2026-11-04,2026-11-04,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,7,2026-10-24,2026-11-18,2026-11-18,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,8,2026-11-07,2026-12-02,2026-12-02,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,9,2026-11-21,2026-12-16,2026-12-16,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,10,2026-12-05,2026-12-30,2026-12-30,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,11,2026-12-19,2027-01-13,2027-01-13,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,12,2027-01-02,2027-01-27,2027-01-27,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,13,2027-01-16,2027-02-10,2027-02-10,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,14,2027-01-30,2027-02-24,2027-02-24,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,15,2027-02-13,2027-03-10,2027-03-10,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,16,2027-02-27,2027-03-24,2027-03-24,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,17,2027-03-13,2027-04-07,2027-04-07,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,18,2027-03-27,2027-04-21,2027-04-21,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,19,2027-04-10,2027-05-05,2027-05-05,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,20,2027-04-24,2027-05-19,2027-05-19,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,21,2027-05-08,2027-06-02,2027-06-02,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,22,2027-05-22,2027-06-16,2027-06-16,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,23,2027-06-05,2027-06-30,2027-06-30,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,24,2027-06-19,2027-07-14,2027-07-14,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,25,2027-07-03,2027-07-28,2027-07-28,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,26,2027-07-17,2027-08-11,2027-08-11,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Aneka sayuran hidroponik,27,2027-07-31,2027-08-25,2027-08-25,10000,batang/bibit tanaman,1000kg
+Edufarm 1,Ayam Petelur / Ras,1,2026-08-01,2026-12-29,2028-07-31,154,ekor (populasi petelur aktif),110 – 120 butir telur/hari (per kg isi 16 butir)
+Edufarm 1,Ayam Kampung,1,2026-08-01,2026-12-29,2028-07-31,50,ekor (populasi petelur aktif),15-25 butir telur/hari
+Edufarm 1,Entok,1,2026-08-01,2026-12-14,2026-12-14,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,2,2026-08-15,2026-12-28,2026-12-28,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,3,2026-08-29,2027-01-11,2027-01-11,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,4,2026-09-12,2027-01-25,2027-01-25,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,5,2026-09-26,2027-02-08,2027-02-08,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,6,2026-10-10,2027-02-22,2027-02-22,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,7,2026-10-24,2027-03-08,2027-03-08,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,8,2026-11-07,2027-03-22,2027-03-22,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,9,2026-11-21,2027-04-05,2027-04-05,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,10,2026-12-05,2027-04-19,2027-04-19,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,11,2026-12-19,2027-05-03,2027-05-03,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,12,2027-01-02,2027-05-17,2027-05-17,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,13,2027-01-16,2027-05-31,2027-05-31,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,14,2027-01-30,2027-06-14,2027-06-14,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,15,2027-02-13,2027-06-28,2027-06-28,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,16,2027-02-27,2027-07-12,2027-07-12,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,17,2027-03-13,2027-07-26,2027-07-26,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,18,2027-03-27,2027-08-09,2027-08-09,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,19,2027-04-10,2027-08-23,2027-08-23,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,20,2027-04-24,2027-09-06,2027-09-06,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,21,2027-05-08,2027-09-20,2027-09-20,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,22,2027-05-22,2027-10-04,2027-10-04,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,23,2027-06-05,2027-10-18,2027-10-18,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,24,2027-06-19,2027-11-01,2027-11-01,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,25,2027-07-03,2027-11-15,2027-11-15,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,26,2027-07-17,2027-11-29,2027-11-29,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Entok,27,2027-07-31,2027-12-13,2027-12-13,180,ekor bibit/benih (sudah + margin mortalitas 20%),150 ekor Minthi (per ekor usia 3 hari)
+Edufarm 1,Pisang,1,2026-08-01,2026-10-30,2026-10-30,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,2,2026-08-15,2026-11-13,2026-11-13,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,3,2026-08-29,2026-11-27,2026-11-27,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,4,2026-09-12,2026-12-11,2026-12-11,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,5,2026-09-26,2026-12-25,2026-12-25,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,6,2026-10-10,2027-01-08,2027-01-08,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,7,2026-10-24,2027-01-22,2027-01-22,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,8,2026-11-07,2027-02-05,2027-02-05,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,9,2026-11-21,2027-02-19,2027-02-19,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,10,2026-12-05,2027-03-05,2027-03-05,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,11,2026-12-19,2027-03-19,2027-03-19,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,12,2027-01-02,2027-04-02,2027-04-02,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,13,2027-01-16,2027-04-16,2027-04-16,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,14,2027-01-30,2027-04-30,2027-04-30,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,15,2027-02-13,2027-05-14,2027-05-14,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,16,2027-02-27,2027-05-28,2027-05-28,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,17,2027-03-13,2027-06-11,2027-06-11,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,18,2027-03-27,2027-06-25,2027-06-25,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,19,2027-04-10,2027-07-09,2027-07-09,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,20,2027-04-24,2027-07-23,2027-07-23,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,21,2027-05-08,2027-08-06,2027-08-06,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,22,2027-05-22,2027-08-20,2027-08-20,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,23,2027-06-05,2027-09-03,2027-09-03,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,24,2027-06-19,2027-09-17,2027-09-17,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,25,2027-07-03,2027-10-01,2027-10-01,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,26,2027-07-17,2027-10-15,2027-10-15,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Pisang,27,2027-07-31,2027-10-29,2027-10-29,1,batang/bibit tanaman,1 Tundun/bulan
+Edufarm 1,Labu Putih,1,2026-08-01,2026-09-25,2027-02-05,100,batang/bibit tanaman,25 buah
+Edufarm 1,Labu Putih,2,2026-12-12,2027-02-05,2027-06-18,100,batang/bibit tanaman,25 buah
+Edufarm 1,Labu Putih,3,2027-04-24,2027-06-18,2027-10-29,100,batang/bibit tanaman,25 buah
+Edufarm 1,Tomat,1,2026-08-01,2026-10-15,2027-04-01,67,batang/bibit tanaman,4 kg
+Edufarm 1,Tomat,2,2027-01-16,2027-04-01,2027-09-16,67,batang/bibit tanaman,4 kg
+Edufarm 1,Tomat,3,2027-07-03,2027-09-16,2028-03-02,67,batang/bibit tanaman,4 kg
+Edufarm 1,Kangkung,1,2026-08-01,2026-08-26,2026-09-23,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,2,2026-08-29,2026-09-23,2026-10-21,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,3,2026-09-26,2026-10-21,2026-11-18,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,4,2026-10-24,2026-11-18,2026-12-16,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,5,2026-11-21,2026-12-16,2027-01-13,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,6,2026-12-19,2027-01-13,2027-02-10,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,7,2027-01-16,2027-02-10,2027-03-10,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,8,2027-02-13,2027-03-10,2027-04-07,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,9,2027-03-13,2027-04-07,2027-05-05,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,10,2027-04-10,2027-05-05,2027-06-02,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,11,2027-05-08,2027-06-02,2027-06-30,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,12,2027-06-05,2027-06-30,2027-07-28,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,13,2027-07-03,2027-07-28,2027-08-25,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Kangkung,14,2027-07-31,2027-08-25,2027-09-22,4000,batang/bibit tanaman,40 ikat
+Edufarm 1,Cabai,1,2026-08-01,2026-10-10,2027-01-28,800,batang/bibit tanaman,20 kg
+Edufarm 1,Cabai,2,2026-11-19,2027-01-28,2027-05-18,800,batang/bibit tanaman,20 kg
+Edufarm 1,Cabai,3,2027-03-09,2027-05-18,2027-09-05,800,batang/bibit tanaman,20 kg
+Edufarm 1,Cabai,4,2027-06-27,2027-09-05,2027-12-24,800,batang/bibit tanaman,20 kg
+Edufarm 1,Terong Ungu,1,2026-08-01,2026-09-30,2027-02-10,160,batang/bibit tanaman,20 Kg
+Edufarm 1,Terong Ungu,2,2026-12-12,2027-02-10,2027-06-23,160,batang/bibit tanaman,20 Kg
+Edufarm 1,Terong Ungu,3,2027-04-24,2027-06-23,2027-11-03,160,batang/bibit tanaman,20 Kg
+Edufarm 1,Mentimun Jepang,1,2026-08-01,2026-09-05,2027-01-16,134,batang/bibit tanaman,10 kg
+Edufarm 1,Mentimun Jepang,2,2026-12-12,2027-01-16,2027-05-29,134,batang/bibit tanaman,10 kg
+Edufarm 1,Mentimun Jepang,3,2027-04-24,2027-05-29,2027-10-09,134,batang/bibit tanaman,10 kg
+Edufarm 1,sawi Pakcoy,1,2026-08-01,2026-08-26,2026-08-26,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,2,2026-08-15,2026-09-09,2026-09-09,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,3,2026-08-29,2026-09-23,2026-09-23,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,4,2026-09-12,2026-10-07,2026-10-07,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,5,2026-09-26,2026-10-21,2026-10-21,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,6,2026-10-10,2026-11-04,2026-11-04,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,7,2026-10-24,2026-11-18,2026-11-18,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,8,2026-11-07,2026-12-02,2026-12-02,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,9,2026-11-21,2026-12-16,2026-12-16,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,10,2026-12-05,2026-12-30,2026-12-30,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,11,2026-12-19,2027-01-13,2027-01-13,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,12,2027-01-02,2027-01-27,2027-01-27,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,13,2027-01-16,2027-02-10,2027-02-10,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,14,2027-01-30,2027-02-24,2027-02-24,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,15,2027-02-13,2027-03-10,2027-03-10,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,16,2027-02-27,2027-03-24,2027-03-24,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,17,2027-03-13,2027-04-07,2027-04-07,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,18,2027-03-27,2027-04-21,2027-04-21,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,19,2027-04-10,2027-05-05,2027-05-05,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,20,2027-04-24,2027-05-19,2027-05-19,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,21,2027-05-08,2027-06-02,2027-06-02,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,22,2027-05-22,2027-06-16,2027-06-16,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,23,2027-06-05,2027-06-30,2027-06-30,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,24,2027-06-19,2027-07-14,2027-07-14,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,25,2027-07-03,2027-07-28,2027-07-28,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,26,2027-07-17,2027-08-11,2027-08-11,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,sawi Pakcoy,27,2027-07-31,2027-08-25,2027-08-25,250,batang/bibit tanaman,30 Ikat
+Edufarm 1,Labu Kuning,1,2026-08-01,2026-10-20,2026-11-10,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,2,2026-08-22,2026-11-10,2026-12-01,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,3,2026-09-12,2026-12-01,2026-12-22,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,4,2026-10-03,2026-12-22,2027-01-12,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,5,2026-10-24,2027-01-12,2027-02-02,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,6,2026-11-14,2027-02-02,2027-02-23,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,7,2026-12-05,2027-02-23,2027-03-16,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,8,2026-12-26,2027-03-16,2027-04-06,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,9,2027-01-16,2027-04-06,2027-04-27,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,10,2027-02-06,2027-04-27,2027-05-18,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,11,2027-02-27,2027-05-18,2027-06-08,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,12,2027-03-20,2027-06-08,2027-06-29,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,13,2027-04-10,2027-06-29,2027-07-20,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,14,2027-05-01,2027-07-20,2027-08-10,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,15,2027-05-22,2027-08-10,2027-08-31,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,16,2027-06-12,2027-08-31,2027-09-21,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,17,2027-07-03,2027-09-21,2027-10-12,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Kuning,18,2027-07-24,2027-10-12,2027-11-02,20,batang/bibit tanaman,25 Buah
+Edufarm 1,Labu Botol,1,2026-08-01,2026-09-25,2027-02-05,80,batang/bibit tanaman,20 Buah
+Edufarm 1,Labu Botol,2,2026-12-12,2027-02-05,2027-06-18,80,batang/bibit tanaman,20 Buah
+Edufarm 1,Labu Botol,3,2027-04-24,2027-06-18,2027-10-29,80,batang/bibit tanaman,20 Buah
+Edufarm 1,Bayam Brasil,1,2026-08-01,2026-08-31,2027-08-01,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Bayam Brasil,2,2027-07-02,2027-08-01,2028-07-01,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,1,2026-08-01,2027-01-28,2027-01-28,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,2,2026-08-15,2027-02-11,2027-02-11,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,3,2026-08-29,2027-02-25,2027-02-25,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,4,2026-09-12,2027-03-11,2027-03-11,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,5,2026-09-26,2027-03-25,2027-03-25,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,6,2026-10-10,2027-04-08,2027-04-08,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,7,2026-10-24,2027-04-22,2027-04-22,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,8,2026-11-07,2027-05-06,2027-05-06,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,9,2026-11-21,2027-05-20,2027-05-20,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,10,2026-12-05,2027-06-03,2027-06-03,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,11,2026-12-19,2027-06-17,2027-06-17,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,12,2027-01-02,2027-07-01,2027-07-01,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,13,2027-01-16,2027-07-15,2027-07-15,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,14,2027-01-30,2027-07-29,2027-07-29,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,15,2027-02-13,2027-08-12,2027-08-12,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,16,2027-02-27,2027-08-26,2027-08-26,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,17,2027-03-13,2027-09-09,2027-09-09,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,18,2027-03-27,2027-09-23,2027-09-23,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,19,2027-04-10,2027-10-07,2027-10-07,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,20,2027-04-24,2027-10-21,2027-10-21,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,21,2027-05-08,2027-11-04,2027-11-04,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,22,2027-05-22,2027-11-18,2027-11-18,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,23,2027-06-05,2027-12-02,2027-12-02,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,24,2027-06-19,2027-12-16,2027-12-16,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,25,2027-07-03,2027-12-30,2027-12-30,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,26,2027-07-17,2028-01-13,2028-01-13,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Tales Bogor,27,2027-07-31,2028-01-27,2028-01-27,0,batang/bibit tanaman,berhasil panen
+Edufarm 1,Ikan Lele,1,2026-08-01,2026-10-30,2026-10-30,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,2,2026-08-15,2026-11-13,2026-11-13,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,3,2026-08-29,2026-11-27,2026-11-27,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,4,2026-09-12,2026-12-11,2026-12-11,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,5,2026-09-26,2026-12-25,2026-12-25,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,6,2026-10-10,2027-01-08,2027-01-08,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,7,2026-10-24,2027-01-22,2027-01-22,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,8,2026-11-07,2027-02-05,2027-02-05,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,9,2026-11-21,2027-02-19,2027-02-19,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,10,2026-12-05,2027-03-05,2027-03-05,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,11,2026-12-19,2027-03-19,2027-03-19,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,12,2027-01-02,2027-04-02,2027-04-02,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,13,2027-01-16,2027-04-16,2027-04-16,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,14,2027-01-30,2027-04-30,2027-04-30,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,15,2027-02-13,2027-05-14,2027-05-14,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,16,2027-02-27,2027-05-28,2027-05-28,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,17,2027-03-13,2027-06-11,2027-06-11,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,18,2027-03-27,2027-06-25,2027-06-25,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,19,2027-04-10,2027-07-09,2027-07-09,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,20,2027-04-24,2027-07-23,2027-07-23,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,21,2027-05-08,2027-08-06,2027-08-06,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,22,2027-05-22,2027-08-20,2027-08-20,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,23,2027-06-05,2027-09-03,2027-09-03,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,24,2027-06-19,2027-09-17,2027-09-17,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,25,2027-07-03,2027-10-01,2027-10-01,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,26,2027-07-17,2027-10-15,2027-10-15,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Lele,27,2027-07-31,2027-10-29,2027-10-29,54,ekor bibit/benih (sudah + margin mortalitas 20%),40 kg / kolam
+Edufarm 1,Ikan Nila,1,2026-08-01,2026-12-29,2026-12-29,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,2,2026-08-15,2027-01-12,2027-01-12,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,3,2026-08-29,2027-01-26,2027-01-26,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,4,2026-09-12,2027-02-09,2027-02-09,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,5,2026-09-26,2027-02-23,2027-02-23,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,6,2026-10-10,2027-03-09,2027-03-09,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,7,2026-10-24,2027-03-23,2027-03-23,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,8,2026-11-07,2027-04-06,2027-04-06,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,9,2026-11-21,2027-04-20,2027-04-20,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,10,2026-12-05,2027-05-04,2027-05-04,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,11,2026-12-19,2027-05-18,2027-05-18,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,12,2027-01-02,2027-06-01,2027-06-01,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,13,2027-01-16,2027-06-15,2027-06-15,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,14,2027-01-30,2027-06-29,2027-06-29,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,15,2027-02-13,2027-07-13,2027-07-13,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,16,2027-02-27,2027-07-27,2027-07-27,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,17,2027-03-13,2027-08-10,2027-08-10,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,18,2027-03-27,2027-08-24,2027-08-24,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,19,2027-04-10,2027-09-07,2027-09-07,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,20,2027-04-24,2027-09-21,2027-09-21,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,21,2027-05-08,2027-10-05,2027-10-05,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,22,2027-05-22,2027-10-19,2027-10-19,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,23,2027-06-05,2027-11-02,2027-11-02,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,24,2027-06-19,2027-11-16,2027-11-16,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,25,2027-07-03,2027-11-30,2027-11-30,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,26,2027-07-17,2027-12-14,2027-12-14,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Nila,27,2027-07-31,2027-12-28,2027-12-28,30,ekor bibit/benih (sudah + margin mortalitas 20%),10 kg
+Edufarm 1,Ikan Patin,1,2026-08-01,2027-01-28,2027-01-28,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,2,2026-08-15,2027-02-11,2027-02-11,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,3,2026-08-29,2027-02-25,2027-02-25,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,4,2026-09-12,2027-03-11,2027-03-11,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,5,2026-09-26,2027-03-25,2027-03-25,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,6,2026-10-10,2027-04-08,2027-04-08,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,7,2026-10-24,2027-04-22,2027-04-22,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,8,2026-11-07,2027-05-06,2027-05-06,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,9,2026-11-21,2027-05-20,2027-05-20,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,10,2026-12-05,2027-06-03,2027-06-03,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,11,2026-12-19,2027-06-17,2027-06-17,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,12,2027-01-02,2027-07-01,2027-07-01,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,13,2027-01-16,2027-07-15,2027-07-15,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,14,2027-01-30,2027-07-29,2027-07-29,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,15,2027-02-13,2027-08-12,2027-08-12,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,16,2027-02-27,2027-08-26,2027-08-26,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,17,2027-03-13,2027-09-09,2027-09-09,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,18,2027-03-27,2027-09-23,2027-09-23,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,19,2027-04-10,2027-10-07,2027-10-07,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,20,2027-04-24,2027-10-21,2027-10-21,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,21,2027-05-08,2027-11-04,2027-11-04,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,22,2027-05-22,2027-11-18,2027-11-18,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,23,2027-06-05,2027-12-02,2027-12-02,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,24,2027-06-19,2027-12-16,2027-12-16,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,25,2027-07-03,2027-12-30,2027-12-30,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,26,2027-07-17,2028-01-13,2028-01-13,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Patin,27,2027-07-31,2028-01-27,2028-01-27,,ekor bibit/benih (sudah + margin mortalitas 20%),0 Kg
+Edufarm 1,Ikan Gabus,1,2026-08-01,2027-01-28,2027-01-28,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,2,2026-08-15,2027-02-11,2027-02-11,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,3,2026-08-29,2027-02-25,2027-02-25,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,4,2026-09-12,2027-03-11,2027-03-11,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,5,2026-09-26,2027-03-25,2027-03-25,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,6,2026-10-10,2027-04-08,2027-04-08,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,7,2026-10-24,2027-04-22,2027-04-22,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,8,2026-11-07,2027-05-06,2027-05-06,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,9,2026-11-21,2027-05-20,2027-05-20,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,10,2026-12-05,2027-06-03,2027-06-03,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,11,2026-12-19,2027-06-17,2027-06-17,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,12,2027-01-02,2027-07-01,2027-07-01,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,13,2027-01-16,2027-07-15,2027-07-15,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,14,2027-01-30,2027-07-29,2027-07-29,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,15,2027-02-13,2027-08-12,2027-08-12,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,16,2027-02-27,2027-08-26,2027-08-26,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,17,2027-03-13,2027-09-09,2027-09-09,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,18,2027-03-27,2027-09-23,2027-09-23,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,19,2027-04-10,2027-10-07,2027-10-07,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,20,2027-04-24,2027-10-21,2027-10-21,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,21,2027-05-08,2027-11-04,2027-11-04,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,22,2027-05-22,2027-11-18,2027-11-18,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,23,2027-06-05,2027-12-02,2027-12-02,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,24,2027-06-19,2027-12-16,2027-12-16,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,25,2027-07-03,2027-12-30,2027-12-30,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,26,2027-07-17,2028-01-13,2028-01-13,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gabus,27,2027-07-31,2028-01-27,2028-01-27,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,1,2026-08-01,2027-01-28,2027-01-28,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,2,2026-08-15,2027-02-11,2027-02-11,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,3,2026-08-29,2027-02-25,2027-02-25,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,4,2026-09-12,2027-03-11,2027-03-11,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,5,2026-09-26,2027-03-25,2027-03-25,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,6,2026-10-10,2027-04-08,2027-04-08,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,7,2026-10-24,2027-04-22,2027-04-22,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,8,2026-11-07,2027-05-06,2027-05-06,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,9,2026-11-21,2027-05-20,2027-05-20,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,10,2026-12-05,2027-06-03,2027-06-03,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,11,2026-12-19,2027-06-17,2027-06-17,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,12,2027-01-02,2027-07-01,2027-07-01,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,13,2027-01-16,2027-07-15,2027-07-15,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,14,2027-01-30,2027-07-29,2027-07-29,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,15,2027-02-13,2027-08-12,2027-08-12,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,16,2027-02-27,2027-08-26,2027-08-26,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,17,2027-03-13,2027-09-09,2027-09-09,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,18,2027-03-27,2027-09-23,2027-09-23,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,19,2027-04-10,2027-10-07,2027-10-07,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,20,2027-04-24,2027-10-21,2027-10-21,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,21,2027-05-08,2027-11-04,2027-11-04,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,22,2027-05-22,2027-11-18,2027-11-18,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,23,2027-06-05,2027-12-02,2027-12-02,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,24,2027-06-19,2027-12-16,2027-12-16,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,25,2027-07-03,2027-12-30,2027-12-30,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,26,2027-07-17,2028-01-13,2028-01-13,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Ikan Gurami,27,2027-07-31,2028-01-27,2028-01-27,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,1,2026-08-01,2027-01-28,2027-01-28,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,2,2026-08-15,2027-02-11,2027-02-11,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,3,2026-08-29,2027-02-25,2027-02-25,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,4,2026-09-12,2027-03-11,2027-03-11,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,5,2026-09-26,2027-03-25,2027-03-25,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,6,2026-10-10,2027-04-08,2027-04-08,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,7,2026-10-24,2027-04-22,2027-04-22,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,8,2026-11-07,2027-05-06,2027-05-06,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,9,2026-11-21,2027-05-20,2027-05-20,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,10,2026-12-05,2027-06-03,2027-06-03,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,11,2026-12-19,2027-06-17,2027-06-17,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,12,2027-01-02,2027-07-01,2027-07-01,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,13,2027-01-16,2027-07-15,2027-07-15,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,14,2027-01-30,2027-07-29,2027-07-29,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,15,2027-02-13,2027-08-12,2027-08-12,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,16,2027-02-27,2027-08-26,2027-08-26,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,17,2027-03-13,2027-09-09,2027-09-09,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,18,2027-03-27,2027-09-23,2027-09-23,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,19,2027-04-10,2027-10-07,2027-10-07,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,20,2027-04-24,2027-10-21,2027-10-21,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,21,2027-05-08,2027-11-04,2027-11-04,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,22,2027-05-22,2027-11-18,2027-11-18,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,23,2027-06-05,2027-12-02,2027-12-02,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,24,2027-06-19,2027-12-16,2027-12-16,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,25,2027-07-03,2027-12-30,2027-12-30,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,26,2027-07-17,2028-01-13,2028-01-13,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Belut,27,2027-07-31,2028-01-27,2028-01-27,,ekor bibit/benih (sudah + margin mortalitas 20%),0 kg
+Edufarm 1,Bebek,1,2026-08-01,2027-01-28,2028-07-31,18,ekor (populasi petelur aktif),10-15 butir /hari
+Edufarm 1,Brokoli,1,2026-08-01,2026-09-25,2026-09-25,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,2,2026-08-15,2026-10-09,2026-10-09,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,3,2026-08-29,2026-10-23,2026-10-23,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,4,2026-09-12,2026-11-06,2026-11-06,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,5,2026-09-26,2026-11-20,2026-11-20,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,6,2026-10-10,2026-12-04,2026-12-04,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,7,2026-10-24,2026-12-18,2026-12-18,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,8,2026-11-07,2027-01-01,2027-01-01,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,9,2026-11-21,2027-01-15,2027-01-15,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,10,2026-12-05,2027-01-29,2027-01-29,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,11,2026-12-19,2027-02-12,2027-02-12,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,12,2027-01-02,2027-02-26,2027-02-26,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,13,2027-01-16,2027-03-12,2027-03-12,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,14,2027-01-30,2027-03-26,2027-03-26,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,15,2027-02-13,2027-04-09,2027-04-09,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,16,2027-02-27,2027-04-23,2027-04-23,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,17,2027-03-13,2027-05-07,2027-05-07,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,18,2027-03-27,2027-05-21,2027-05-21,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,19,2027-04-10,2027-06-04,2027-06-04,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,20,2027-04-24,2027-06-18,2027-06-18,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,21,2027-05-08,2027-07-02,2027-07-02,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,22,2027-05-22,2027-07-16,2027-07-16,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,23,2027-06-05,2027-07-30,2027-07-30,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,24,2027-06-19,2027-08-13,2027-08-13,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,25,2027-07-03,2027-08-27,2027-08-27,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,26,2027-07-17,2027-09-10,2027-09-10,0,batang/bibit tanaman,0
+Edufarm 1,Brokoli,27,2027-07-31,2027-09-24,2027-09-24,0,batang/bibit tanaman,0
+Pokdakan Bioflok RW 3 Kebraon,Nila,1,2026-08-01,2026-12-29,2026-12-29,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,2,2026-08-15,2027-01-12,2027-01-12,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,3,2026-08-29,2027-01-26,2027-01-26,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,4,2026-09-12,2027-02-09,2027-02-09,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,5,2026-09-26,2027-02-23,2027-02-23,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,6,2026-10-10,2027-03-09,2027-03-09,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,7,2026-10-24,2027-03-23,2027-03-23,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,8,2026-11-07,2027-04-06,2027-04-06,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,9,2026-11-21,2027-04-20,2027-04-20,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,10,2026-12-05,2027-05-04,2027-05-04,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,11,2026-12-19,2027-05-18,2027-05-18,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,12,2027-01-02,2027-06-01,2027-06-01,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,13,2027-01-16,2027-06-15,2027-06-15,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,14,2027-01-30,2027-06-29,2027-06-29,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,15,2027-02-13,2027-07-13,2027-07-13,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,16,2027-02-27,2027-07-27,2027-07-27,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,17,2027-03-13,2027-08-10,2027-08-10,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,18,2027-03-27,2027-08-24,2027-08-24,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,19,2027-04-10,2027-09-07,2027-09-07,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,20,2027-04-24,2027-09-21,2027-09-21,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,21,2027-05-08,2027-10-05,2027-10-05,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,22,2027-05-22,2027-10-19,2027-10-19,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,23,2027-06-05,2027-11-02,2027-11-02,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,24,2027-06-19,2027-11-16,2027-11-16,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,25,2027-07-03,2027-11-30,2027-11-30,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,26,2027-07-17,2027-12-14,2027-12-14,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,Nila,27,2027-07-31,2027-12-28,2027-12-28,,ekor bibit/benih (sudah + margin mortalitas 20%),0
+Pokdakan Bioflok RW 3 Kebraon,lele,1,2026-08-01,2026-10-15,2026-10-15,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,2,2026-08-15,2026-10-29,2026-10-29,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,3,2026-08-29,2026-11-12,2026-11-12,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,4,2026-09-12,2026-11-26,2026-11-26,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,5,2026-09-26,2026-12-10,2026-12-10,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,6,2026-10-10,2026-12-24,2026-12-24,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,7,2026-10-24,2027-01-07,2027-01-07,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,8,2026-11-07,2027-01-21,2027-01-21,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,9,2026-11-21,2027-02-04,2027-02-04,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,10,2026-12-05,2027-02-18,2027-02-18,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,11,2026-12-19,2027-03-04,2027-03-04,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,12,2027-01-02,2027-03-18,2027-03-18,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,13,2027-01-16,2027-04-01,2027-04-01,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,14,2027-01-30,2027-04-15,2027-04-15,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,15,2027-02-13,2027-04-29,2027-04-29,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,16,2027-02-27,2027-05-13,2027-05-13,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,17,2027-03-13,2027-05-27,2027-05-27,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,18,2027-03-27,2027-06-10,2027-06-10,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,19,2027-04-10,2027-06-24,2027-06-24,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,20,2027-04-24,2027-07-08,2027-07-08,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,21,2027-05-08,2027-07-22,2027-07-22,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,22,2027-05-22,2027-08-05,2027-08-05,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,23,2027-06-05,2027-08-19,2027-08-19,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,24,2027-06-19,2027-09-02,2027-09-02,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,25,2027-07-03,2027-09-16,2027-09-16,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,26,2027-07-17,2027-09-30,2027-09-30,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+Pokdakan Bioflok RW 3 Kebraon,lele,27,2027-07-31,2027-10-14,2027-10-14,375,ekor bibit/benih (sudah + margin mortalitas 20%),280 kg
+urban farming Bioflok,Cabe rawit,1,2026-08-01,2026-10-15,2027-01-28,2143,batang/bibit tanaman,50 kg
+urban farming Bioflok,Cabe rawit,2,2026-11-14,2027-01-28,2027-05-13,2143,batang/bibit tanaman,50 kg
+urban farming Bioflok,Cabe rawit,3,2027-02-27,2027-05-13,2027-08-26,2143,batang/bibit tanaman,50 kg
+urban farming Bioflok,Cabe rawit,4,2027-06-12,2027-08-26,2027-12-09,2143,batang/bibit tanaman,50 kg
